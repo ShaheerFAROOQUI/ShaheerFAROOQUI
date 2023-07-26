@@ -31,3 +31,12 @@
 ### :man_technologist: About Me :
 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan having expertise in Website Development, Mobile Application Development and Data Analytics.
+
+
+- :telescope: I’m working as a freelancer and contributing to frontend and backend for building different applications.
+
+- :seedling: Exploring different new languages and how they can be used in development
+
+- :zap: In my free time, I watch Youtube tutorials of different projects and try to learn new things from it
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-farooqui)
