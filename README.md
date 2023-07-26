@@ -29,3 +29,5 @@
 ---
 
 ### :man_technologist: About Me :
+
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan having expertise in Website Development, Mobile Application Development and Data Analytics.
