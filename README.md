@@ -15,4 +15,4 @@
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ShaheerFAROOQUI&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ShaheerFAROOQUI&style=flat-square&color=blue" width="100" alt=""/>
